@@ -1,2 +1,2 @@
 # Ball-Tap-Game
-Mobile Game I created
+Note that this only includes the Assets and APK
